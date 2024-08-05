@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../test-project (React)"
+		},
+		{
+			"path": "../../react-website-v1-starter"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "edusity"
+	}
+}
